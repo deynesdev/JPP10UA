@@ -1,0 +1,34 @@
+{
+    "gameName": "The Jackbox Party Pack 10",
+    "mainSwf": "TJPPLoader.swf",
+    "pauseSwf": "PauseDialog.swf",
+    "managerSwf": "Manager.swf",
+    "fallbackSwf": "games/Picker/Picker.swf",
+    "pauseStyle": "buses",
+
+    "win":{
+        "sentryDsn": "https://d7e3d06ea1fc1916b28a45851f488f72@o420318.ingest.sentry.io/4505743660941312"
+    },
+
+    "steam":{
+        "appId": 2216830
+    },
+
+    "egs":{
+        "version": "1.0.0",
+        "productId": "8c66484c2ef44c97800fd8f326bd47c8",
+        "deploymentIds": {
+            "p-kmvbgulazkx3fqt38h9nt7p39d424x": "a7e98cba0ec14fcf8fe318dff1129522",
+            "p-hh7c4wtlcqzbmpnmvsd45e3kadgd5h": "615cd8bb16984f99ad4b3099be9dd64a",
+            "3b925119dbd84a9986f06e66e6794033": "a2e7cb43935f4cc9b2b57d8c465fcf03"
+        },
+        "clientId": "xyza7891iMlCj7sQMf7oGl8ZFvj9iRKG",
+        "clientSecret": "gk9u4tRgqw9yLhWEKs6w4yOyXYQ4BYI177XGousa6bM"
+    },
+
+    "samsung":{
+        "ads":[
+        ]
+    }
+
+}
